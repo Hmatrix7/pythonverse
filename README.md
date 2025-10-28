@@ -31,5 +31,4 @@ Before diving deep into NumPy, Pandas, and Data Visualization, I worked through 
 
 ---
 
-## 📁 Repository Structure
 
