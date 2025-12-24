@@ -3,7 +3,7 @@
 This repository contains my Python learning progress — the foundation of my journey to becoming a top **Data Analyst in Kenya** 🇰🇪.
 
 Before diving deep into NumPy, Pandas, and Data Visualization, I worked through the core Python skills every analyst needs.
-
+This code was written in jupyter notebook
 ---
 
 ## 🎯 Learning Objectives
